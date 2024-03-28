@@ -1,0 +1,11 @@
+{
+  "name": "maxxvoiid_retype",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "retype watch",
+    "build": "retype build"
+  },
+  "author": "maxxvoiid",
+  "license": "ISC"
+}
